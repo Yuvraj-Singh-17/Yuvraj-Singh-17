@@ -102,7 +102,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 <a href="https://hackerrank.com/yuvrajsinghsola3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="45" /></a>
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <a href="https://hackerrank.com/yuvrajsinghsola3" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="45"/>
