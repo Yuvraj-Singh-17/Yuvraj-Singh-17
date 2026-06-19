@@ -10,10 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuvraj-singh-17&theme=tokyonight&row=1&column=5&margin-w=15" alt="github profile trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvraj-singh-17&show_icons=true&theme=tokyonight&locale=en" alt="Yuvraj's GitHub Stats" />
 </p>
-
-<br />
+ 
 
 - 🔭 I’m currently working on **Optimizing Data Structures in C++ / Learning Low-Level Systems**
 
