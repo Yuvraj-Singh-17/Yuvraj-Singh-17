@@ -70,13 +70,35 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 
 ---
 
-<h1>Open to Collaborate</h1>
+<h2>🤝 Open to Collaborate</h2>
 
--  High-Performance Computing (HPC)
--  Systems Programming
--  Modern C++
--  Performance Engineering
--  Open Source
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+- 🚀 High-Performance Computing (HPC)
+- ⚙️ Systems Programming
+- 💻 Modern C++
+- ⚡ Performance Engineering
+- 🌍 Open Source
+
+</td>
+
+<td width="45%" align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ---
 
