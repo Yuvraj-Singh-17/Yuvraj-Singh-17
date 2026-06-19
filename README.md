@@ -9,20 +9,14 @@
   <b>⚡ Turning complex algorithms into cache-friendly, deterministic machine code.</b>
 </p>
 
+## 🖥️ System Core & Active Processes
 
-- 🔭 I’m currently working on **Optimizing Data Structures in C++ / Learning Low-Level Systems**
+| ⚡ Core Execution | 🛠️ Under Development |
+| :--- | :--- |
+| **Current Focus**<br>↳ Optimizing Data Structures in C++<br>↳ Analyzing Low-Level Systems architecture | **Deep Learning Pipeline**<br>↳ Multi-threading & Concurrency<br>↳ Memory Management & Linux Kernel Internals |
+| **Open For Collaboration**<br>↳ High-Performance Computing (HPC)<br>↳ Open Source Systems Programming | **Technical Brainstorming**<br>↳ Advanced C++20 / C++23 Optimizations<br>↳ Complex Data Structures & Algorithms (DSA) |
 
-- 🌱 I’m currently learning **Multi-threading, Memory Management, and Linux Kernel Internals**
-
-- 👯 I’m looking to collaborate on **Open Source Systems Programming & High-Performance Computing**
-
-- 🤝 I’m looking for help with **Advanced C++20/C++23 Optimization & Concurrency**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Yuvraj-Singh-17](https://github.com/Yuvraj-Singh-17)
-
-- 💬 Ask me about **Data Structures & Algorithms (DSA) in C++**
-
-- ⚡ Fun fact **I measure code execution speed in nanoseconds, not milliseconds!**
+> 🧠 **System Runtime Fact:** I measure code execution speed in nanoseconds, not milliseconds!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/yuvraj--singh--codes" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://twitter.com/yuvraj_singhq" target="_blank"><img src="https://img.shields.io/badge/-%20-000000?style=flat&logo=x&logoColor=white" alt="X" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/yuvrajsinghsolankiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://codeforces.com/profile/yuvrajsinghsolankiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://hackerrank.com/yuvrajsinghsola3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" /></a></p>
