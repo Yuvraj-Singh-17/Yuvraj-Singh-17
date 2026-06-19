@@ -23,17 +23,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <p align="center">
+<p align="left">
+  <a href="https://hackerrank.com/yuvrajsinghsola3" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC460?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/yuvrajsinghsolankiq" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-%23445BC5?style=flat&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/yuvrajsinghsolankiq" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
   <a href="https://twitter.com/yuvraj_singhq" target="_blank">
-    <img src="https://img.shields.io/badge/--000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="border-radius: 8px;" />
+    <img src="https://img.shields.io/badge/X-%23000000?style=flat&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://linkedin.com/in/yuvraj--singh--codes" target="_blank">
-    <img src="https://img.shields.io/badge/--0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-<a href="https://www.hackerrank.com/yuvrajsinghsola3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yuvrajsinghsola3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yuvrajsinghsolankiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yuvrajsinghsolankiq" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yuvrajsinghsolankiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yuvrajsinghsolankiq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
