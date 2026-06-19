@@ -48,11 +48,9 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Singh-17&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
 
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Singh-17&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
 
-<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-Singh-17&theme=tokyonight&hide_border=true" width="100%"/>
 
