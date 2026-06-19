@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/ChatGPT%20Image%20Jun%2019%2C%202026%2C%2001_33_41%20PM.png" width="500"> alt="Yuvraj Banner">
+  <img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/new%20filw%20.png" width="750" alt="Yuvraj Banner">
 </p>
 
   <!-- Typing Animation -->
