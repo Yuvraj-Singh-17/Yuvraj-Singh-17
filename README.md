@@ -51,10 +51,10 @@ Platform      :: Linux
 
 ---
 
-### 🎯 Mission
-<p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=F59E0B&width=700&lines=Turning+complex+algorithms+into+cache-friendly+machine+code.;Writing+deterministic+and+predictable+software.;Every+nanosecond+matters."/>
-</p>
+<h3>
+🎯 Mission
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F59E0B&vCenter=true&width=420&lines=Cache-friendly+Code;Deterministic+Execution;Latency+Matters"/>
+</h3>
 
 ---
 
