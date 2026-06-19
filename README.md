@@ -23,8 +23,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yuvraj_singhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuvraj_singhq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yuvraj--singh--codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj--singh--codes" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/yuvraj_singhq" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  </a>
+  <a href="https://linkedin.com/in/yuvraj--singh--codes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 <a href="https://www.hackerrank.com/yuvrajsinghsola3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yuvrajsinghsola3" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yuvrajsinghsolankiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yuvrajsinghsolankiq" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yuvrajsinghsolankiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yuvrajsinghsolankiq" height="30" width="40" /></a>
