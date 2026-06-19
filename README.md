@@ -95,11 +95,27 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/yuvraj--singh--codes" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="45" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/yuvraj_singhq" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="45" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/yuvrajsinghsolankiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/yuvrajsinghsolankiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="45" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://hackerrank.com/yuvrajsinghsola3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="45" /></a>
+
+<a href="https://linkedin.com/in/yuvraj--singh--codes">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/yuvraj_singhq">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/yuvrajsinghsolankiq">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/yuvrajsinghsolankiq">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+<a href="https://hackerrank.com/yuvrajsinghsola3">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
 
 
