@@ -9,9 +9,6 @@
   <b>⚡ Turning complex algorithms into cache-friendly, deterministic machine code.</b>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=180&section=header&text=YUVRAJ%20SINGH&fontSize=40&fontColor=34D399&animation=fadeIn&subText=⚡%20LOW%20LATENCY%20%20%7C%20%20SYSTEMS%20PROGRAMMING&subTextScale=50&subColor=94A3B8" alt="Yuvraj Tech Banner" />
-</p>
 
 - 🔭 I’m currently working on **Optimizing Data Structures in C++ / Learning Low-Level Systems**
 
