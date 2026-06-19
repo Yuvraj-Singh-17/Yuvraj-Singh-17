@@ -1,23 +1,20 @@
 <div align="center">
 
-  <!-- Banner -->
   <img
     src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/new_filw_-removebg-preview.png"
     width="520"
     alt="Yuvraj Banner"
   />
 
-  <br><br>
+  <!-- Bas ek hi break -->
+  <br>
 
-  <!-- Typing Animation -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1500&color=34D399&center=true&vCenter=true&width=700&lines=Aspiring+Low-Latency+C%2B%2B+Engineer;Future+HFT+Engineer;Modern+C%2B%2B+Developer;Systems+Programming+Enthusiast"
     alt="Typing Animation"
   />
 
 </div>
-
-<br>
 
 <h3 align="center">
 ⚡ Turning complex algorithms into cache-friendly, deterministic machine code.
