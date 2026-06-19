@@ -33,8 +33,11 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 <img align="right" width="420" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ6MGcybnYxcDAzdG05aTljczVkM2p2a3l6aGMza3FuOG83N25tMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 
 - 🚀 Developing **cache-efficient** data structures in **Modern C++**
+
 - ⚙️ Exploring **Multi-threading**, **Memory Management** & **Linux Internals**
+
 - 🧠 Learning **Low-Latency Systems Design**
+
 - 📈 Preparing for **High-Frequency Trading (HFT)**
 
 <br>
