@@ -21,7 +21,7 @@
 <h3 align="center">
 ⚡ Turning complex algorithms into cache-friendly, deterministic machine code.
 </h3>
-## 🖥️ System Core
+### 🖥️ System Core
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=34D399&center=true&vCenter=true&width=650&lines=Building+software+where+every+CPU+cycle+matters.;Optimizing+for+Latency+and+Performance.;Modern+C%2B%2B+%7C+Systems+Programming." />
@@ -38,61 +38,39 @@
 - 🧠 Learning **Low-Latency Systems Design**
 - 📈 Preparing for **High Frequency Trading (HFT)**
 
+<br>
+
+```text
+Language      :: Modern C++ (C++20 / C++23)
+Domain        :: Systems Programming
+Performance   :: Cache Optimization • Concurrency • HPC
+Platform      :: Linux
+```
+
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
-
-```text
-╭────────────────────────────────────────────╮
-│ Language    :: Modern C++ (C++20 / C++23) │
-│ Domain      :: Systems Programming         │
-│ Performance :: Cache • Concurrency • HPC   │
-│ Platform    :: Linux                       │
-╰────────────────────────────────────────────╯
-```
-
----
-
 ### 🎯 Mission
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=F59E0B&center=true&vCenter=true&width=900&lines=Turning+complex+algorithms+into+cache-friendly+machine+code.;Writing+predictable,+deterministic+software.;Every+nanosecond+matters."/>
+<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=F59E0B&width=700&lines=Turning+complex+algorithms+into+cache-friendly+machine+code.;Writing+deterministic+and+predictable+software.;Every+nanosecond+matters."/>
 </p>
 
 ---
 
 ### 🤝 Open to Collaborate
 
-✅ High-Performance Computing (HPC)
-
-✅ Systems Programming
-
-✅ Modern C++
-
-✅ Performance Engineering
-
-✅ Open Source
+- ⚡ High-Performance Computing (HPC)
+- ⚡ Systems Programming
+- ⚡ Modern C++
+- ⚡ Performance Engineering
+- ⚡ Open Source
 
 ---
 
 ### ⚙️ Engineering Mindset
 
-> 💭 *"I measure performance in nanoseconds, not milliseconds."*
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-Singh-17&theme=github-dark&hide_border=true"/>
-</p>
-<br />
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt0cm95NzJyeG04dG96M3B0N3pndmxyNXpndWZ0NHpxOHp5MXF4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E7w0Z4PPr3B2R3j470/giphy.gif" alt="Systems Engineering Graphics" width="50%" style="border-radius: 10px;" />
-</p>
-
-<br />
-
-> 🧠 **System Runtime Fact:** I measure code execution speed in nanoseconds, not milliseconds!
+> 💭 **"I measure performance in nanoseconds, not milliseconds."**
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/yuvraj--singh--codes" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://twitter.com/yuvraj_singhq" target="_blank"><img src="https://img.shields.io/badge/-%20-000000?style=flat&logo=x&logoColor=white" alt="X" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/yuvrajsinghsolankiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://codeforces.com/profile/yuvrajsinghsolankiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://hackerrank.com/yuvrajsinghsola3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" /></a></p>
 
