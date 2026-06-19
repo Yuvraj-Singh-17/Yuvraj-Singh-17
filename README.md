@@ -11,46 +11,37 @@
 
 ## 🖥️ System Core & Active Processes
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <!-- Left Column: Spaced Out Engineering Text -->
-    <td width="60%" valign="top">
-      
-      <h3>⚡ Core Execution</h3>
-      <p><b>Current Focus</b><br>
-      ↳ Optimizing Data Structures in C++<br>
-      ↳ Analyzing Low-Level Systems architecture</p>
-      
-      <br />
-      
-      <p><b>Open For Collaboration</b><br>
-      ↳ High-Performance Computing (HPC)<br>
-      ↳ Open Source Systems Programming</p>
-      
-      <br /><br />
-      
-      <h3>🛠️ Under Development</h3>
-      <p><b>Deep Learning Pipeline</b><br>
-      ↳ Multi-threading & Concurrency<br>
-      ↳ Memory Management & Linux Kernel Internals</p>
-      
-      <br />
-      
-      <p><b>Technical Brainstorming</b><br>
-      ↳ Advanced C++20 / C++23 Optimizations<br>
-      ↳ Complex Data Structures & Algorithms (DSA)</p>
-      
-    </td>
-    <!-- Middle Spacer -->
-    <td width="5%"></td>
-    <!-- Right Column: Premium Tech Animation/Photo -->
-    <td width="35%" valign="middle" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt0cm95NzJyeG04dG96M3B0N3pndmxyNXpndWZ0NHpxOHp5MXF4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E7w0Z4PPr3B2R3j470/giphy.gif" alt="Systems Engineering Graphics" width="100%" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+> ### ⚡ Core Execution
+>
+> **Current Focus**
+> ↳ Optimizing Data Structures in C++
+> ↳ Analyzing Low-Level Systems architecture
+>
+> **Open For Collaboration**
+> ↳ High-Performance Computing (HPC)
+> ↳ Open Source Systems Programming
 
 <br />
+
+> ### 🛠️ Under Development
+>
+> **Deep Learning Pipeline**
+> ↳ Multi-threading & Concurrency
+> ↳ Memory Management & Linux Kernel Internals
+>
+> **Technical Brainstorming**
+> ↳ Advanced C++20 / C++23 Optimizations
+> ↳ Complex Data Structures & Algorithms (DSA)
+
+<br />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt0cm95NzJyeG04dG96M3B0N3pndmxyNXpndWZ0NHpxOHp5MXF4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E7w0Z4PPr3B2R3j470/giphy.gif" alt="Systems Engineering Graphics" width="50%" style="border-radius: 10px;" />
+</p>
+
+<br />
+
+> 🧠 **System Runtime Fact:** I measure code execution speed in nanoseconds, not milliseconds!
 
 > 🧠 **System Runtime Fact:** I measure code execution speed in nanoseconds, not milliseconds!
 <h3 align="left">Connect with me:</h3>
