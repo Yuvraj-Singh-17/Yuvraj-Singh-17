@@ -1,6 +1,6 @@
-<div align="center">
-  <!-- Main Heading -->
-  <h1>Hi 👋, I'm Yuvraj Singh</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/ChatGPT%20Image%20Jun%2019%2C%202026%2C%2001_33_41%20PM.png" width="750" alt="Yuvraj Banner">
+</p>
 
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=2000&color=34D399&center=true&vCenter=true&width=700&lines=Aspiring+Low-Latency+C%2B%2B+Engineer;Systems+Programming+Enthusiast;Aspiring+HFT+Engineer;Modern+C%2B%2B+Developer" alt="Typing SVG" />
