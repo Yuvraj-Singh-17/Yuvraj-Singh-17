@@ -1,8 +1,9 @@
-## Hi there 👋
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Yuvraj+Singh;Aspiring+Low-Latency+C%2B%2B+Engineer;Optimizing+Code+in+Nanoseconds" alt="Typing SVG" />
+  <h1>Hi 👋, I'm Yuvraj Singh</h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Aspiring+Low-Latency+C%2B%2B+Engineer;Systems+Programming+Enthusiast" alt="Typing SVG" />
+  </p>
 </div>
-<h1 align="center">Hi 👋, I'm Yuvraj Singh</h1>
 <h3 align="center">Aspiring Low-Latency C++ Engineer | Systems Programming Enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj-singh-17" alt="yuvraj-singh-17" /></a> </p>
