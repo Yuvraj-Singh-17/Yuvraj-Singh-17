@@ -5,7 +5,9 @@
   <!-- Choti Sub-heading: Fully Optimized & Compact Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=2000&color=34D399&center=true&vCenter=true&width=600&lines=Aspiring+Low-Latency+C%2B%2B+Engineer;Systems+Programming+Enthusiast" alt="Subheading" />
 </div>
-<h3 align="center">Aspiring Low-Latency C++ Engineer | Systems Programming Enthusiast</h3>
+<p align="center">
+  <b>⚡ Turning complex algorithms into cache-friendly, deterministic machine code.</b>
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj-singh-17" alt="yuvraj-singh-17" /></a> </p>
 
