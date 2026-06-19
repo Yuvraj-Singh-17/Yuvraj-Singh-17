@@ -9,7 +9,11 @@
   <b>⚡ Turning complex algorithms into cache-friendly, deterministic machine code.</b>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj-singh-17" alt="yuvraj-singh-17" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuvraj-singh-17&theme=tokyonight&row=1&column=5&margin-w=15" alt="github profile trophy" />
+</p>
+
+<br />
 
 - 🔭 I’m currently working on **Optimizing Data Structures in C++ / Learning Low-Level Systems**
 
