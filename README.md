@@ -1,9 +1,9 @@
 <div align="center">
-  <!-- Badi Heading: Pure HTML me (Yeh kabhi break nahi hogi aur 100% visible rahegi) -->
+  <!-- Main Heading -->
   <h1>Hi 👋, I'm Yuvraj Singh</h1>
-  
-  <!-- Choti Sub-heading: Fully Optimized & Compact Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=2000&color=34D399&center=true&vCenter=true&width=600&lines=Aspiring+Low-Latency+C%2B%2B+Engineer;Systems+Programming+Enthusiast" alt="Subheading" />
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=2000&color=34D399&center=true&vCenter=true&width=700&lines=Aspiring+Low-Latency+C%2B%2B+Engineer;Systems+Programming+Enthusiast;Aspiring+HFT+Engineer;Modern+C%2B%2B+Developer" alt="Typing SVG" />
 </div>
 <p align="center">
   <b>⚡ Turning complex algorithms into cache-friendly, deterministic machine code.</b>
