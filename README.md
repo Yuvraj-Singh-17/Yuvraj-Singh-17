@@ -30,7 +30,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 
 <div align="left">
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - 🚀 Developing **cache-efficient** data structures in **Modern C++**
 - ⚙️ Exploring **Multi-threading**, **Memory Management** & **Linux Internals**
