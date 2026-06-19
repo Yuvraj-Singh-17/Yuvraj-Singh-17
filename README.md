@@ -40,7 +40,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/tech-card.png.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/tech-card.png" width="100%"/>
 
 </td>
 
