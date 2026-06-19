@@ -11,13 +11,48 @@
 
 ## 🖥️ System Core & Active Processes
 
-| ⚡ Core Execution | 🛠️ Under Development |
-| :--- | :--- |
-| **Current Focus**<br>↳ Optimizing Data Structures in C++<br>↳ Analyzing Low-Level Systems architecture | **Deep Learning Pipeline**<br>↳ Multi-threading & Concurrency<br>↳ Memory Management & Linux Kernel Internals |
-| **Open For Collaboration**<br>↳ High-Performance Computing (HPC)<br>↳ Open Source Systems Programming | **Technical Brainstorming**<br>↳ Advanced C++20 / C++23 Optimizations<br>↳ Complex Data Structures & Algorithms (DSA) |
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- Left Column: Spaced Out Engineering Text -->
+    <td width="60%" valign="top">
+      
+      <h3>⚡ Core Execution</h3>
+      <p><b>Current Focus</b><br>
+      ↳ Optimizing Data Structures in C++<br>
+      ↳ Analyzing Low-Level Systems architecture</p>
+      
+      <br />
+      
+      <p><b>Open For Collaboration</b><br>
+      ↳ High-Performance Computing (HPC)<br>
+      ↳ Open Source Systems Programming</p>
+      
+      <br /><br />
+      
+      <h3>🛠️ Under Development</h3>
+      <p><b>Deep Learning Pipeline</b><br>
+      ↳ Multi-threading & Concurrency<br>
+      ↳ Memory Management & Linux Kernel Internals</p>
+      
+      <br />
+      
+      <p><b>Technical Brainstorming</b><br>
+      ↳ Advanced C++20 / C++23 Optimizations<br>
+      ↳ Complex Data Structures & Algorithms (DSA)</p>
+      
+    </td>
+    <!-- Middle Spacer -->
+    <td width="5%"></td>
+    <!-- Right Column: Premium Tech Animation/Photo -->
+    <td width="35%" valign="middle" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmt0cm95NzJyeG04dG96M3B0N3pndmxyNXpndWZ0NHpxOHp5MXF4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E7w0Z4PPr3B2R3j470/giphy.gif" alt="Systems Engineering Graphics" width="100%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
+
+<br />
 
 > 🧠 **System Runtime Fact:** I measure code execution speed in nanoseconds, not milliseconds!
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/yuvraj--singh--codes" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://twitter.com/yuvraj_singhq" target="_blank"><img src="https://img.shields.io/badge/-%20-000000?style=flat&logo=x&logoColor=white" alt="X" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/yuvrajsinghsolankiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://codeforces.com/profile/yuvrajsinghsolankiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://hackerrank.com/yuvrajsinghsola3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" /></a></p>
 
