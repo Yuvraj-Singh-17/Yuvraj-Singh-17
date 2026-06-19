@@ -26,33 +26,25 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 </p>
 
 ---
+### ⚡ Current Focus
 
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-## ⚡ Current Focus
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 - 🚀 Developing **cache-efficient** data structures in **Modern C++**
-- ⚙️ Exploring **Multi-threading, Memory Management & Linux Internals**
+- ⚙️ Exploring **Multi-threading**, **Memory Management** & **Linux Internals**
 - 🧠 Learning **Low-Latency Systems Design**
-- 📈 Preparing for **High Frequency Trading (HFT)**
+- 📈 Preparing for **High-Frequency Trading (HFT)**
 
-<br>
+```text
+Language      :: Modern C++ (C++20 / C++23)
+Domain        :: Systems Programming
+Performance   :: Cache Optimization • Concurrency • HPC
+Platform      :: Linux
+```
 
-<img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/tech-card.png" width="100%"/>
+<br clear="right"/>
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="YOUR_GIF_LINK" width="320"/>
-
-</td>
-
-</tr>
-</table>
+---
 
 <h3>
 <p align="left">
