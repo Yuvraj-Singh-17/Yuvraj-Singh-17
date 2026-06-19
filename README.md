@@ -13,7 +13,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1500&color=34D399&center=true&vCenter=true&width=700&lines=Aspiring+Low-Latency+C%2B%2B+Engineer;Future+HFT+Engineer;Modern+C%2B%2B+Developer;Systems+Programming+Enthusiast"
     alt="Typing Animation"
   />
-
+════════════════════════════
 </div>
 
 </div>
@@ -21,30 +21,69 @@
 <h3 align="center">
 ⚡ Turning complex algorithms into cache-friendly, deterministic machine code.
 </h3>
-## 🖥️ System Core & Active Processes
+## 🖥️ System Core
 
-> ### ⚡ Core Execution
->
-> **Current Focus**
-> ↳ Optimizing Data Structures in C++
-> ↳ Analyzing Low-Level Systems architecture
->
-> **Open For Collaboration**
-> ↳ High-Performance Computing (HPC)
-> ↳ Open Source Systems Programming
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=34D399&center=true&vCenter=true&width=650&lines=Building+software+where+every+CPU+cycle+matters.;Optimizing+for+Latency+and+Performance.;Modern+C%2B%2B+%7C+Systems+Programming." />
+</p>
 
-<br />
+---
 
-> ### 🛠️ Under Development
->
-> **Deep Learning Pipeline**
-> ↳ Multi-threading & Concurrency
-> ↳ Memory Management & Linux Kernel Internals
->
-> **Technical Brainstorming**
-> ↳ Advanced C++20 / C++23 Optimizations
-> ↳ Complex Data Structures & Algorithms (DSA)
+### ⚡ Current Focus
 
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 🚀 Developing **cache-efficient** data structures in **Modern C++**
+- ⚙️ Exploring **Multi-threading**, **Memory Management** & **Linux Internals**
+- 🧠 Learning **Low-Latency Systems Design**
+- 📈 Preparing for **High Frequency Trading (HFT)**
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+```text
+╭────────────────────────────────────────────╮
+│ Language    :: Modern C++ (C++20 / C++23) │
+│ Domain      :: Systems Programming         │
+│ Performance :: Cache • Concurrency • HPC   │
+│ Platform    :: Linux                       │
+╰────────────────────────────────────────────╯
+```
+
+---
+
+### 🎯 Mission
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=F59E0B&center=true&vCenter=true&width=900&lines=Turning+complex+algorithms+into+cache-friendly+machine+code.;Writing+predictable,+deterministic+software.;Every+nanosecond+matters."/>
+</p>
+
+---
+
+### 🤝 Open to Collaborate
+
+✅ High-Performance Computing (HPC)
+
+✅ Systems Programming
+
+✅ Modern C++
+
+✅ Performance Engineering
+
+✅ Open Source
+
+---
+
+### ⚙️ Engineering Mindset
+
+> 💭 *"I measure performance in nanoseconds, not milliseconds."*
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-Singh-17&theme=github-dark&hide_border=true"/>
+</p>
 <br />
 
 <p align="center">
