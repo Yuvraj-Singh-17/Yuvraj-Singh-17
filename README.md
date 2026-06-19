@@ -1,10 +1,9 @@
 <div align="center">
-<div align="center">
-  <!-- Badi Heading: Premium Aesthetic Font -->
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=1&pause=1&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Yuvraj+Singh" alt="Heading" />
+  <!-- Badi Heading: Pure HTML me (Yeh kabhi break nahi hogi aur 100% visible rahegi) -->
+  <h1>Hi 👋, I'm Yuvraj Singh</h1>
   
-  <!-- Choti Subheading: Types after a micro-pause with Dev Font -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=2000&color=34D399&center=true&vCenter=true&width=600&lines=Aspiring+Low-Latency+C%2B%2B+Engineer;Systems+Programming+Enthusiast" alt="Subheading" />
+  <!-- Choti Sub-heading: Fully Optimized & Compact Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=2000&color=34D399&center=true&vCenter=true&width=600&lines=Aspiring+Low-Latency+C%2B%2B+Engineer;Systems+Programming+Enthusiast" alt="Subheading" />
 </div>
 <h3 align="center">Aspiring Low-Latency C++ Engineer | Systems Programming Enthusiast</h3>
 
