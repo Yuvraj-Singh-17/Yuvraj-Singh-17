@@ -28,25 +28,44 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 ---
 ### ⚡ Current Focus
 
-<div align="left">
+<table>
+<tr>
 
-<img align="right" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJ6MGcybnYxcDAzdG05aTljczVkM2p2a3l6aGMza3FuOG83N25tMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<td width="55%" valign="top">
 
 - 🚀 Developing **cache-efficient** data structures in **Modern C++**
-
 - ⚙️ Exploring **Multi-threading**, **Memory Management** & **Linux Internals**
-
 - 🧠 Learning **Low-Latency Systems Design**
-
 - 📈 Preparing for **High-Frequency Trading (HFT)**
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/tech-cards.png" width="520"/>
+<img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/tech-cards.png" width="100%"/>
 
-</div>
+</td>
 
-<br clear="right"/>
+<td width="45%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Singh-17&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Singh-17&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-Singh-17&theme=tokyonight&hide_border=true" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<h3 align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=F59E0B&width=700&lines=Turning+complex+algorithms+into+cache-friendly+machine+code.;Writing+deterministic+and+predictable+software.;Every+nanosecond+matters."/>
+</h3>
 
 ---
 
