@@ -1,9 +1,8 @@
 <div align="center">
   <h1>Hi 👋, I'm Yuvraj Singh</h1>
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Aspiring+Low-Latency+C%2B%2B+Engineer;Systems+Programming+Enthusiast" alt="Typing SVG" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=30,7AA2F7,F7768E,9ECE6A,BB9AF3&text=Hi%20👋,%20I'm%20Yuvraj%20Singh&fontSize=35&fontColor=ffffff&subText=Aspiring%20Low-Latency%20C%2B%2B%20Engineer%20%7C%20Systems%20Enthusiast&subTextScale=50&animation=fadeIn&theme=tokyonight" alt="Header" />
+</p>
 <h3 align="center">Aspiring Low-Latency C++ Engineer | Systems Programming Enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj-singh-17" alt="yuvraj-singh-17" /></a> </p>
