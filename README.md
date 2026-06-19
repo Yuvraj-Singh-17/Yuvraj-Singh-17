@@ -91,24 +91,23 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,linux,git,python,ubuntu,bash,vscode,cmake&perline=8"/>
-
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/yuvraj--singh--codes" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-242938?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/yuvraj_singhq" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X_(Twitter)-242938?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/yuvrajsinghsolankiq" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-242938?style=for-the-badge&logo=leetcode&logoColor=white" height="48" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-242938?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/yuvrajsinghsolankiq" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-242938?style=for-the-badge&logo=codeforces&logoColor=white" height="48" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-242938?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </p>
 
