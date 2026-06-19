@@ -16,6 +16,8 @@
 
 </div>
 
+</div>
+
 <h3 align="center">
 ⚡ Turning complex algorithms into cache-friendly, deterministic machine code.
 </h3>
