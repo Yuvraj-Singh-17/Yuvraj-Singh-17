@@ -70,7 +70,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 
 ---
 
-### 🤝 Open to Collaborate
+<h1>Open to Collaborate</h1>
 
 - ⚡ High-Performance Computing (HPC)
 - ⚡ Systems Programming
