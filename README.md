@@ -19,7 +19,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 <h3 align="center">
 ⚡ Turning complex algorithms into cache-friendly, deterministic machine code.
 </h3>
-### 🖥️ System Core
+<h1>🖥️ System Core</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=34D399&center=true&vCenter=true&width=650&lines=Building+software+where+every+CPU+cycle+matters.;Optimizing+for+Latency+and+Performance.;Modern+C%2B%2B+%7C+Systems+Programming." />
