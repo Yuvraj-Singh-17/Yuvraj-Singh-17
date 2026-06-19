@@ -54,8 +54,7 @@ Platform      :: Linux
 <h3>
 🎯 Mission
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F59E0B&vCenter=true&width=420&lines=Cache-friendly+Code;Deterministic+Execution;Latency+Matters"/>
-</h3>
-
+</p>
 ---
 
 ### 🤝 Open to Collaborate
