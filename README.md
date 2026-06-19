@@ -17,29 +17,29 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 </div>
 
 <h3 align="center">
-⚡ Turning complex algorithms into cache-friendly, deterministic machine code.
+ Turning complex algorithms into friendly, determinic machine code.
 </h3>
-<h1>🖥️ System Core</h1>
+<h1>System Core</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=34D399&center=true&vCenter=true&width=650&lines=Building+software+where+every+CPU+cycle+matters.;Optimizing+for+Latency+and+Performance.;Modern+C%2B%2B+%7C+Systems+Programming." />
 </p>
 
 ---
-### ⚡ Current Focus
+###  Current Focus
 
 <table>
 <tr>
 
 <td width="55%" valign="top">
 
-- 🚀 Developing **cache-efficient** data structures in **Modern C++**
+-  Developing **cache-efficient** data structures in **Modern C++**
 
-- ⚙️ Exploring **Multi-threading**, **Memory Management** & **Linux Internals**
+-  Exploring **Multi-threading**, **Memory Management** & **Linux Internals**
 
-- 🧠 Learning **Low-Latency Systems Design**
+-  Learning **Low-Latency Systems Design**
 
-- 📈 Preparing for **High-Frequency Trading (HFT)**
+-  Preparing for **High-Frequency Trading (HFT)**
 
 <br><br>
 
@@ -63,7 +63,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 </table>
 
 ---
-<h2> 🎯Missions </h2>
+<h2> Missions </h2>
 <h3 align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=F59E0B&width=700&lines=Turning+complex+algorithms+into+cache-friendly+machine+code.;Writing+deterministic+and+predictable+software.;Every+nanosecond+matters."/>
 </h3>
@@ -72,21 +72,21 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 
 <h1>Open to Collaborate</h1>
 
-- ⚡ High-Performance Computing (HPC)
-- ⚡ Systems Programming
-- ⚡ Modern C++
-- ⚡ Performance Engineering
-- ⚡ Open Source
+-  High-Performance Computing (HPC)
+-  Systems Programming
+-  Modern C++
+-  Performance Engineering
+-  Open Source
 
 ---
 
-### ⚙️ Engineering Mindset
+###  Engineering Mindset
 
 > 💭 **"I measure performance in nanoseconds, not milliseconds."**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-Singh-17&theme=github-dark&hide_border=true&bg_color=0D1117&color=34D399&line=34D399&point=FFFFFF&area=true&area_color=34D399" />
 </p>
-<h2 align="left">🛠️ Languages & Tools</h2>
+<h2 align="left"> Languages & Tools</h2>
 
 <p align="center">
 
