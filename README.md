@@ -28,29 +28,36 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 ---
 ### ⚡ Current Focus
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<table>
+<tr>
+
+<td width="60%" valign="top">
 
 - 🚀 Developing **cache-efficient** data structures in **Modern C++**
 - ⚙️ Exploring **Multi-threading**, **Memory Management** & **Linux Internals**
 - 🧠 Learning **Low-Latency Systems Design**
 - 📈 Preparing for **High-Frequency Trading (HFT)**
 
-```text
-Language      :: Modern C++ (C++20 / C++23)
-Domain        :: Systems Programming
-Performance   :: Cache Optimization • Concurrency • HPC
-Platform      :: Linux
-```
+<br>
 
-<br clear="right"/>
+<img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/tech-card.png.png" width="100%"/>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-<h3>
-<p align="left">
+<h3 align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=F59E0B&width=700&lines=Turning+complex+algorithms+into+cache-friendly+machine+code.;Writing+deterministic+and+predictable+software.;Every+nanosecond+matters."/>
-</p>
-
+</h3>
 ### 🤝 Open to Collaborate
 
 - ⚡ High-Performance Computing (HPC)
