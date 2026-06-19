@@ -26,7 +26,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 </p>
 
 ---
-###  Current Focus
+### 🎯Current Focus
 
 <table>
 <tr>
