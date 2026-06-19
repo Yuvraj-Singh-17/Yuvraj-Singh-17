@@ -2,7 +2,7 @@
 
   <img
     src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/new_filw_-removebg-preview.png"
-    width="520"
+    width="550"
     alt="Yuvraj Banner"
   />
 
