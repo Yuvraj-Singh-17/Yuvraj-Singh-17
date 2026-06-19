@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/new%20filw%20.png" width="550" alt="Yuvraj Banner">
+  <img
+    src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/new_filw_-removebg-preview.png"
+    alt="Yuvraj Banner"
+    width="550"
+  />
 </p>
 
   <!-- Typing Animation -->
