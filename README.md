@@ -95,40 +95,20 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-
-<a href="https://linkedin.com/in/yuvraj--singh--codes" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="48"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://twitter.com/yuvraj_singhq" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg"
-       width="48"
-       style="background:#242938;border-radius:12px;padding:8px;"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://leetcode.com/yuvrajsinghsolankiq" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-       width="48"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://codeforces.com/profile/yuvrajsinghsolankiq" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-       width="48"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://hackerrank.com/yuvrajsinghsola3" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-       width="48"/>
-</a>
-
+  <a href="https://linkedin.com/in/yuvraj--singh--codes" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/yuvraj_singhq" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/yuvrajsinghsolankiq" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-242938?style=for-the-badge&logo=leetcode&logoColor=white" height="48" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/yuvrajsinghsolankiq" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-242938?style=for-the-badge&logo=codeforces&logoColor=white" height="48" alt="Codeforces" />
+  </a>
 </p>
-
 
