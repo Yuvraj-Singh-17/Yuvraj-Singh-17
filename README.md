@@ -74,9 +74,13 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 <h3>🤝 Open to Collaborate</h3>
 
 - 🚀 High-Performance Computing (HPC)
+
 - ⚙️ Systems Programming
+
 - 💻 Modern C++
+
 - ⚡ Performance Engineering
+
 - 🌍 Open Source
 
 <br clear="right" />
