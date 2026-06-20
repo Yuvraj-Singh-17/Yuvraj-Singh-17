@@ -69,9 +69,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 </h3>
 
 ---
-<img align="right"
-     width="520"
-     src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake-dark.svg">
+<img align="right" width="450" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/Ai%20%20brain%20board%20(1).gif">
 
 ## 🤝 Open to Collaborate
 
@@ -81,7 +79,8 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 - ⚡ Performance Engineering
 - 🌍 Open Source
 
-<br><br><br><br><br><br><br><br><br>
+<!-- Yeh line lagana zaroori hai taaki iske neeche ka content kharab na ho -->
+<br clear="right" />
 ---
 
 ###  Engineering Mindset
