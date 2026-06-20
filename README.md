@@ -69,19 +69,18 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 </h3>
 
 ---
-<img align="right" width="250" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/wired-gradient-680-it-developer-hover-pinch.gif" alt="Developer Animation">
+## 🤝 Open to Collaborate
 
-<h3>🤝 Open to Collaborate</h3>
+<img align="right" width="210" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/wired-gradient-680-it-developer-hiver-pinch.gif" alt="Developer Animation">
+<img align="right" width="210" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/wired-gradient-478-computer-display-hover-angle%20%282%29.gif" alt="Computer Display Animation">
 
 - 🚀 High-Performance Computing (HPC)
-
 - ⚙️ Systems Programming
-
 - 💻 Modern C++
-
 - ⚡ Performance Engineering
-
 - 🌍 Open Source
+
+<!-- Float reset taaki layout block perfect rahe -->
 <br clear="right" />
 
 ###  Engineering Mindset
