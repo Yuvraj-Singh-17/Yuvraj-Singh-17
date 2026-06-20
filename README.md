@@ -20,11 +20,11 @@
 </h3>
 <h1>System Core</h1>
 
-<p align="center">
-  <a href="#no-link">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=34D399&center=true&vCenter=true&width=650&lines=Building+software+where+every+CPU+cycle+matters.;Optimizing+for+Latency+and+Performance.;Modern+C%2B%2B+%7C+Systems+Programming." alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=34D399&center=true&vCenter=true&width=650&lines=Building+software+where+every+CPU+cycle+matters.;Optimizing+for+Latency+and+Performance.;Modern+C%2B%2B+%7C+Systems+Programming." alt="Typing SVG" />
+
+</div>
 
 ---
 ### 🎯Current Focus
