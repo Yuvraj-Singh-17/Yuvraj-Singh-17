@@ -27,44 +27,50 @@
 </div>
 
 ---
-### 🎯 Current Focus
+### 🎯Current Focus
 
-- 🚀 Developing **cache-efficient** data structures in **Modern C++**
-- ⚙️ Exploring **Multi-threading**, **Memory Management** & **Linux Internals**
-- 💻 Learning **Low-Latency Systems Design**
-- ⚡ Preparing for **High-Frequency Trading (HFT)**
+<table>
+<tr>
 
-<br>
+<td width="55%" valign="top">
 
-<!-- Main Banner Image -->
-<div align="center">
-  <a href="#no-link">
-    <img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/tech-cards.png" alt="Tech Cards" width="80%">
-  </a>
-</div>
+-  Developing **cache-efficient** data structures in **Modern C++**
+
+-  Exploring **Multi-threading**, **Memory Management** & **Linux Internals**
+
+-  Learning **Low-Latency Systems Design**
+
+-  Preparing for **High-Frequency Trading (HFT)**
 
 <br><br>
 
-<!-- GitHub Stats Analytics Grid -->
-<div align="center">
-  
-  <!-- 1. GitHub Stats Card -->
-  <a href="#no-link">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Singh-17&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Yuvraj's GitHub Stats" width="48%" />
-  </a>
-  <!-- 2. Most Used Languages Card -->
-  <a href="#no-link">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Singh-17&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="48%" />
-  </a>
-  
-  <br><br>
-  
-  <!-- 3. Streak Stats Card -->
-  <a href="#no-link">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-Singh-17&theme=tokyonight&background=0d1117&border=0d1117" alt="GitHub Streak" width="70%" />
-  </a>
+<a href="#no-link">
+  <img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/tech-cards.png" alt="Test">
+</a>
+</td>
 
-</div>
+<td width="45%" align="center">
+
+<!-- 1. GitHub Stats Card -->
+<a href="#no-link">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Singh-17&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Yuvraj's GitHub Stats" width="100%" />
+</a>
+
+<!-- 2. Most Used Languages Card -->
+<a href="#no-link">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Singh-17&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="100%" />
+</a>
+
+<!-- 3. Streak Stats Card -->
+<a href="#no-link">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-Singh-17&theme=tokyonight&background=0d1117&border=0d1117" alt="GitHub Streak" width="100%" />
+</a>
+</td>
+
+</tr>
+</table>
+
+
 ---
 <h2> Missions </h2>
 <h3 align="left">
