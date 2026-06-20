@@ -69,9 +69,9 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 </h3>
 
 ---
-## 🤝 Open to Collaborate
-
 <img align="right" width="250" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/wired-gradient-680-it-developer-in-reveal.gif" alt="Developer Animation">
+
+<h3>🤝 Open to Collaborate</h3>
 
 - 🚀 High-Performance Computing (HPC)
 - ⚙️ Systems Programming
@@ -80,7 +80,6 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 - 🌍 Open Source
 
 <br clear="right" />
----
 
 ###  Engineering Mindset
 
