@@ -47,14 +47,19 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 <td width="45%" align="center">
 
 <!-- 1. GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Singh-17&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Yuvraj's GitHub Stats" />
+<a href="#no-link">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Singh-17&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Yuvraj's GitHub Stats" />
+</a>
 
 <!-- 2. Most Used Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Singh-17&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
+<a href="#no-link">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Singh-17&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
+</a>
 
 <!-- 3. Streak Stats Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-Singh-17&theme=tokyonight&background=0d1117&border=0d1117" alt="GitHub Streak" />
-
+<a href="#no-link">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-Singh-17&theme=tokyonight&background=0d1117&border=0d1117" alt="GitHub Streak" />
+</a>
 </td>
 
 </tr>
