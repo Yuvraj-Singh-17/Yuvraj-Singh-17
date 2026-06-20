@@ -39,8 +39,9 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/tech-cards.png" width="100%"/>
-
+<a href="#no-link">
+  <img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/tech-cards.png" alt="Test">
+</a>
 </td>
 
 <td width="45%" align="center">
