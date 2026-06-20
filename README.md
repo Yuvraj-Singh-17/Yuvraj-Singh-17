@@ -69,7 +69,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 </h3>
 
 ---
-<img align="right" width="450" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/Ai%20%20brain%20board%20(1).gif">
+<img align="right" width="260" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/wired-gradient-680-it-developer-in-reveal.gif" alt="Developer Animation">
 
 ## 🤝 Open to Collaborate
 
@@ -79,7 +79,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 - ⚡ Performance Engineering
 - 🌍 Open Source
 
-<!-- Yeh line lagana zaroori hai taaki iske neeche ka content kharab na ho -->
+<!-- Float reset taaki neeche ka content iske upar na chadh jaaye -->
 <br clear="right" />
 ---
 
