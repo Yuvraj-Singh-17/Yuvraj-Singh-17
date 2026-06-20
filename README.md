@@ -56,7 +56,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Singh-17&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Most Used Languages" />
 
 <!-- 3. Streak Stats Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-Singh-17&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-Singh-17&theme=tokyonight&background=0d1117&border=0d1117" alt="GitHub Streak" />
 
 </td>
 
