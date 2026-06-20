@@ -70,12 +70,10 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 
 ---
 
-<h2>🤝 Open to Collaborate</h2>
+## 🤝 Open to Collaborate
 
-<table>
-<tr>
-
-<td width="55%" valign="top">
+<img align="right" width="460"
+src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake-dark.svg"/>
 
 - 🚀 High-Performance Computing (HPC)
 - ⚙️ Systems Programming
@@ -83,20 +81,9 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 - ⚡ Performance Engineering
 - 🌍 Open Source
 
-</td>
+<br clear="right"/>
 
-<td width="45%" align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</td>
-
-</tr>
-</table>
+---
 
 ---
 
