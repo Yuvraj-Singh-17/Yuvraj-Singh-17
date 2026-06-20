@@ -72,7 +72,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 ## 🤝 Open to Collaborate
 
 <img align="right" width="210" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/wired-gradient-680-it-developer-hiver-pinch.gif" alt="Developer Animation">
-<img align="right" width="210" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/wired-gradient-478-computer-display-hover-angle%20%282%29.gif" alt="Computer Display Animation">
+<img align="right" width="210" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/wired-gradient-478-computer-display-hover-angle(2).gif" alt="Computer Display Animation">
 
 - 🚀 High-Performance Computing (HPC)
 - ⚙️ Systems Programming
