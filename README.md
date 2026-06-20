@@ -108,11 +108,17 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-Singh-17&theme=github-dark&hide_border=true&bg_color=0D1117&color=34D399&line=34D399&point=FFFFFF&area=true&area_color=34D399" />
   </a>
 </div>
-### My Contribution
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake.svg">
-</picture>
+### 🎯 My Contribution
+
+<div align="center">
+  <a href="#no-link">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake-dark.svg">
+      <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake-dark.svg">
+    </picture>
+  </a>
+</div>
 <h2 align="center"> Languages & Tools</h2>
 
 <div align="center">
