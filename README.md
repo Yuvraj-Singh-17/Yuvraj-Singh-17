@@ -71,17 +71,16 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
 ---
 ## 🤝 Open to Collaborate
 
-- 🚀 High-Performance Computing (HPC)
+<img align="right" width="600"
+src="snake.svg">
+
+- 🚀 HPC
 - ⚙️ Systems Programming
 - 💻 Modern C++
 - ⚡ Performance Engineering
 - 🌍 Open Source
 
-<p align="center">
-  <img width="900"
-  src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake-dark.svg">
-</p>
-
+<br><br><br><br><br><br><br><br>
 ---
 
 ###  Engineering Mindset
