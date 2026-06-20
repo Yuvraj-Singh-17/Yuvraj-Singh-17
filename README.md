@@ -1,12 +1,8 @@
 <div align="center">
 
-<img
-src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/new_filw_-removebg-preview.png"
-width="550"
-alt="Banner"/>
-
-<div style="margin-top:-70px;">
-
+<a href="#no-link">
+  <img src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/main/new_filw_-removebg-preview.png" alt="Test">
+</a>
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1500&color=34D399&center=true&vCenter=true&width=700&lines=Aspiring+Low-Latency+C%2B%2B+Engineer;Aspiring+HFT+Engineer;Modern+C%2B%2B+Developer;Systems+Programming+Enthusiast"/>
 
