@@ -95,7 +95,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&dur
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-Singh-17&theme=github-dark&hide_border=true&bg_color=0D1117&color=34D399&line=34D399&point=FFFFFF&area=true&area_color=34D399" />
 </p>
 
-## 🐍 GitHub Contribution Snake
+## MY Contribution 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake.svg">
