@@ -113,11 +113,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Yuvraj-Singh-17/Yuvraj-Singh-17/output/github-contribution-grid-snake.svg">
 </picture>
-<h2 align="left"> Languages & Tools</h2>
+<h2 align="center"> Languages & Tools</h2>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,linux,git,python,ubuntu,bash,vscode,cmake&perline=8"/>
+<div align="center">
+  <a href="#no-link">
+    <img src="https://skillicons.dev/icons?i=cpp,linux,git,python,ubuntu,bash,vscode,cmake&perline=8" alt="My Skills" />
+  </a>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/yuvraj--singh--codes" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://twitter.com/yuvraj_singhq" target="_blank"><img src="https://img.shields.io/badge/-%20-000000?style=flat&logo=x&logoColor=white" alt="X" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/yuvrajsinghsolankiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://codeforces.com/profile/yuvrajsinghsolankiq" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://hackerrank.com/yuvrajsinghsola3" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" /></a></p>
 
