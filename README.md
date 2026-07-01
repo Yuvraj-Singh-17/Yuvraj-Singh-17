@@ -52,6 +52,10 @@
 <td width="45%" align="center">
 
 <!-- 1. GitHub Stats Card -->
+<!-- Dynamic Top Languages & Stats via Metrics -->
+<a href="#no-link">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvraj-Singh-17&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
+</a>
 <a href="#no-link">
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Yuvraj-Singh-17&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Yuvraj's GitHub Stats" width="100%" />
 </a>
