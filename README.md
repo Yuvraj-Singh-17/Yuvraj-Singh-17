@@ -51,17 +51,17 @@
 
 <td width="45%" align="center">
 
-<!-- 1. GitHub Stats Card -->
+<!-- 1. GitHub Stats Card (Anurag Hazra's Alternative Server) -->
 <a href="#no-link">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Yuvraj-Singh-17&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Yuvraj's GitHub Stats" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yuvraj-Singh-17&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Yuvraj's GitHub Stats" width="100%" />
 </a>
 
-<!-- 2. Most Used Languages Card -->
+<!-- 2. Most Used Languages Card (Anurag Hazra's Alternative Server) -->
 <a href="#no-link">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Yuvraj-Singh-17&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yuvraj-Singh-17&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" alt="Most Used Languages" width="100%" />
 </a>
 
-<!-- 3. Streak Stats Card -->
+<!-- 3. Streak Stats Card (Jo tumhara pehle se chal raha hai) -->
 <a href="#no-link">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-Singh-17&theme=tokyonight&background=0d1117&border=0d1117" alt="GitHub Streak" width="100%" />
 </a>
