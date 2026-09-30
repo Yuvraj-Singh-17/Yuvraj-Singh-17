@@ -77,7 +77,9 @@
     width="100%"
   />
 </a>
-
+</td> 
+</tr>
+</table>
 
 ---
 <h2> Missions </h2>
