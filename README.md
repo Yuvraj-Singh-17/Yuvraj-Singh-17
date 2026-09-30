@@ -116,7 +116,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-Singh-17&theme=github-compact&hide_border=true&bg_color=0D1117&color=34D399&line=34D399&point=FFFFFF&area=true"
+    src="https://YOUR-APP.vercel.app/graph?username=Yuvraj-Singh-17&theme=github-compact&hide_border=true&bg_color=0D1117&color=34D399&line=34D399&point=FFFFFF&area=true"
     alt="Yuvraj's GitHub Activity Graph"
   />
 </div>
